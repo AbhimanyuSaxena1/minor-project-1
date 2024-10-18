@@ -7,6 +7,20 @@ html,body{
     height: 100%;
     width: 100%;
 }
+@font-face {
+    font-family: 'work sans';
+    src: url(./Work_Sans/static/) format(ttf);
+}
+@font-face {
+    font-family: 'monument';
+    src: url(./fonts/MonumentExtended-Regular.ttf) format(ttf);
+    src: url(./fonts/MonumentExtended-Ultrabold.ttf) format(ttf);
+}
+@font-face {
+    font-family: 'gilroy';
+    src: url(./Gilroy-FREE/Gilroy-ExtraBold.otf) format(otf);
+    src: url(./Gilroy-FREE/Gilroy-Light.otf) format(otf);
+}
 #main{
     background-color: #f8f8f8;
     height: 100%;
