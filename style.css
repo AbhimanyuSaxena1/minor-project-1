@@ -9,7 +9,7 @@ html,body{
 }
 @font-face {
     font-family: 'work sans';
-    src: url(./Work_Sans/static/) format('ttf');
+    src: url(./Work_Sans/WorkSans-VariableFont_wght.ttf) format('ttf');
 }
 @font-face {
     font-family: 'monument';
@@ -30,6 +30,7 @@ html,body{
     /* overflow: hidden; */
     /* overflow-y: hidden; */
     overflow-x: hidden;
+    overflow-y: auto;
 }
 #nav{
     /* background-color: red; */
@@ -90,18 +91,26 @@ html,body{
 }
 #nav h2:nth-last-child(1){
     padding-right: 6vw;
-    width: 200px;
-    font-size: 30px;
+    /* display: none; */
+    background-color: red;
+    /* font-size: 30px; */
+}
+
+#nav h2:nth-last-child(2){
+    /* padding-right: 6vw; */
+    border-right: none;
 }
 #nav h2:nth-last-child(3){
     /* padding-right: 6vw; */
-    width: 270px;
+    width: 40vw;
+    /* background-color: red; */
 }
 #nav h2:nth-last-child(4){
     justify-content: end;
     padding-right: 5vw;
 }
 #nav>i{
+    width: 0;
     display: none;
 }
 #content{
