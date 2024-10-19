@@ -1122,7 +1122,7 @@ video{
     /* background-color: red; */
     display: inline-block;
     white-space: nowrap;
-    margin-right: 190px;
+    margin-right: 200px;
     animation-name: scroll;
     animation-duration: 10s;
     animation-timing-function: linear;
@@ -1170,7 +1170,7 @@ video{
         transform: translateX(0);
     }
     to{
-        transform: translateX(calc(-100% - 194px));
+        transform: translateX(calc(-100% - 204px));
     }
 }
 #alphabet{
