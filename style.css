@@ -206,7 +206,7 @@ video{
     /* background-color: red; */
     display: inline-block;
     white-space: nowrap;
-    margin-right: 2px;
+    margin-right: .5vw;
     animation-name: scroll;
     animation-duration: 10s;
     animation-timing-function: linear;
@@ -1034,7 +1034,7 @@ video{
         transform: translateX(0);
     }
     to{
-        transform: translateX(calc(-100% - 6px));
+        transform: translateX(calc(-100% - (0.5vw + 4px)));
     }
 }
 @keyframes scroll2 {
