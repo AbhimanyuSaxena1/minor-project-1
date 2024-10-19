@@ -8,7 +8,14 @@ html,body{
     width: 100%;
 }
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.cdnfonts.com/css/monument');
+@font-face {
+    font-family: monument;
+    src: url(./fonts/MonumentExtended-Ultrabold.otf);
+    /* src: url(./fonts/MonumentExtended-Regular.otf) */
+    /* src: url(./fonts/PPMonumentExtended-Regular.otf); */
+    /* src: url(./fonts/PPMonumentExtended-Black.otf); */
+    /* src: url(./fonts/PPMonumentExtended-Light.otf) */
+}
 @import url('https://fonts.cdnfonts.com/css/gilroy-bold');
 #main{
     background-color: #f8f8f8;
@@ -16,6 +23,7 @@ html,body{
     width: 100%;
     padding-top: 0.1px;
     font-family: Work sans;
+    font-weight: 900;
     /* overflow: hidden; */
     /* overflow-y: hidden; */
     overflow-x: hidden;
