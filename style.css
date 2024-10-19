@@ -309,7 +309,7 @@ video{
     /* background-color: blue; */
     font-style: italic;
     font-weight: 500;
-    font-family:work sans;
+    font-family:Work sans;
     font-size: 2vw;
     border-bottom: 2px solid black;
     /* padding-left: 5vw; */
@@ -390,7 +390,7 @@ video{
     padding-top: 1.5vw;
 }
 #text-part1{
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-size: 1.7vw;
     font-weight: 500;
     padding-bottom: .5vw;
@@ -400,7 +400,7 @@ video{
     height: 100%;
 }
 #text-part2{
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 400;
     font-size: 1.05vw;
     width: 50%;
@@ -532,7 +532,7 @@ video{
 .p-left{
     padding: 1vw 2vw;
    font-size: 1.2vw;
-   font-family:"Work Sans", sans-serif;
+   font-family:Work sans;
    /* font-size: large; */
    font-weight: 500;
    width: 6%;
@@ -552,7 +552,7 @@ video{
 }
 .p-right h1{
     font-size: 3.2vw;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 400;
     text-transform: capitalize;
 }
@@ -560,7 +560,7 @@ video{
 .p-right h3{
     font-size: 1vw;
     color: rgba(0, 0, 0, 0.5);
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -629,7 +629,7 @@ video{
 #center h1{
     text-transform: capitalize;
     font-size: 3vw;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 300;
 }
 
@@ -638,7 +638,7 @@ video{
     text-transform: uppercase;
     font-size: 1vw;
     color: rgba(0, 0, 0, 0.5);
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 400;
 }
 .profiles:nth-last-child(1)
@@ -680,7 +680,7 @@ video{
     font-size: 3vw;
 }
 #movie h2{
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     /* font-size: ; */
     width: 57%;
     font-weight: 500;
@@ -767,7 +767,7 @@ video{
     padding-top: 1.5vw;
 }
 #p8-text-part1{
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-size: 1.5vw;
     font-weight: 500;
     padding-bottom: .5vw;
@@ -777,7 +777,7 @@ video{
     height: 100%;
 }
 #p8-text-part2{
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 400;
     font-size: 1.05vw;
     width: 50%;
@@ -854,7 +854,7 @@ video{
     font-size: 1.55vw;
     font-weight: 500;
     /* text-transform:   uppercase; */
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     line-height: 2vw;
     margin-bottom: 2vw;
 }
@@ -866,7 +866,7 @@ video{
     border: 2px solid black;
     /* background-color: red; */
     /* text-transform:   uppercase; */
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     /* line-height: 2vw; */
 }
 #jack img{
@@ -945,7 +945,7 @@ video{
     
     font-size: 1.6vw;
     font-weight: 600;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     
 }
 #men {
@@ -962,7 +962,7 @@ video{
 #men h2{
     font-size: 1.6vw;
     font-weight: 600;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     /* background-color: yellow; */
     /* width:320px; */
 }
@@ -990,7 +990,7 @@ video{
 #agency h2{
     font-size: 1.6vw;
     font-weight: 600;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     /* background-color: yellow; */
     /* width:320px; */
 }
@@ -1012,7 +1012,7 @@ video{
 #contact-us h3{
     font-size: 2vw;
     margin-bottom: 1vw;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 400;
 }
 
@@ -1210,7 +1210,7 @@ video{
 }
 #lower h1{
     font-size: 2.5vw;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 500;
 }
 
@@ -1291,7 +1291,7 @@ video{
 #center h1{
     text-transform: capitalize;
     font-size: 4vw;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 300;
 }
 
@@ -1435,7 +1435,7 @@ video{
     font-size: 2.6vw;
     font-weight: 600;
     /* text-transform:   uppercase; */
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     line-height: 3vw;
     margin-bottom: 2vw;
 }
@@ -1496,7 +1496,7 @@ video{
     top: 5.5vw;
     /* background-color: red; */
 font-weight: 500;
-/* font-family:"Work Sans", sans-serif; */
+/* font-family:Work sans; */
 }
 #model{
     display: flex;
@@ -1513,7 +1513,7 @@ font-weight: 500;
     
     font-size: 2.4vw;
     font-weight: 600;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     
 }
 #men {
@@ -1530,7 +1530,7 @@ font-weight: 500;
 #men h2{
     font-size: 2.4vw;
     font-weight: 600;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     /* background-color: yellow; */
     /* width:320px; */
 }
@@ -1575,7 +1575,7 @@ font-weight: 500;
 #contact-us h3{
     font-size: 3vw;
     margin-bottom: 1vw;
-    font-family:"Work Sans", sans-serif;
+    font-family:Work sans;
     font-weight: 400;
 }
 
