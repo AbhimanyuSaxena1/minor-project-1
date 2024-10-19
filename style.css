@@ -7,7 +7,7 @@ html,body{
     height: 100%;
     width: 100%;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.cdnfonts.com/css/monument');
 
 #main{
@@ -15,7 +15,7 @@ html,body{
     height: 100%;
     width: 100%;
     padding-top: 0.1px;
-    font-family: ""Work Sans", sans-serif";
+    font-family: "Work Sans", sans-serif;
     /* overflow: hidden; */
     /* overflow-y: hidden; */
     overflow-x: hidden;
@@ -33,7 +33,7 @@ html,body{
     align-items: center;
 }
 #nav h1{
-    font-family: "monument";
+    font-family: 'Monument', sans-serif;
     letter-spacing: -3px;
     font-size: 3vw;
     /* background-color: yellow; */
@@ -138,7 +138,7 @@ video{
     padding-bottom: 2vw;
 }
 #part1 h1{
-    font-family: monument;
+    font-family: 'Monument', sans-serif;
 
     font-size: 5vw;
     
@@ -407,7 +407,7 @@ video{
 #page2-bottom h1{
 
     font-size: 3.7vw;
-    font-family: monument;
+    font-family: 'Monument', sans-serif;
     text-transform: uppercase;
     padding-top: 2.5vw;
     padding-bottom: 2vw;
@@ -496,7 +496,7 @@ video{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: monument";
+    font-family: 'Monument', sans-serif";
     /* background-color: aquamarine; */
 }
 #names{
@@ -665,7 +665,7 @@ video{
     /* background-color: blue; */
 }
 #movie h1{
-    font-family: monument;
+    font-family: 'Monument', sans-serif;
     text-transform: uppercase;
     margin-bottom: 2vw;
     font-size: 3vw;
@@ -794,7 +794,7 @@ video{
     margin-right: 16px; /* it will take 4px margin/gap by default so the total margin is 20px   */
     -webkit-text-stroke: 2px  black;
     color: transparent;
-    font-family: monument;
+    font-family: 'Monument', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 6vw;
@@ -832,7 +832,7 @@ video{
 #blog h1{
     font-size: 3vw;
     text-transform: uppercase;
-    font-family: monument";
+    font-family: 'Monument', sans-serif";
 }
 .text{
     height: 30%;
@@ -901,7 +901,7 @@ video{
 #logo h1{
     font-size: 4vw;
     letter-spacing: -.22vw;
-    font-family: monument;
+    font-family: 'Monument', sans-serif;
     position: relative;
     }
 #logo h1::after{
@@ -1038,7 +1038,7 @@ video{
     align-items: center;
 }
 #nav h1{
-    font-family: monument;
+    font-family: 'Monument', sans-serif;
     letter-spacing: -3px;
     font-size: 8vw;
     /* background-color: yellow; */
@@ -1413,7 +1413,7 @@ video{
 #blog h1{
     font-size: 5vw;
     text-transform: uppercase;
-    font-family: monument;
+    font-family: 'Monument', sans-serif;
 }
 .text{
     height: 30%;
